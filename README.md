@@ -8,12 +8,6 @@
   Touch‑first ordering · Real‑time kitchen display · Cash & card checkout · Admin dashboard
 </p>
 
-<p align="center">
-  <!-- Badges -->
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-informational">
-  <img alt="Frontend" src="https://img.shields.io/badge/frontend-React%20%2B%20TypeScript-blue">
-  <img alt="Backend" src="https://img.shields.io/badge/backend-.NET%208-blueviolet">
-</p>
 
 ---
 
@@ -21,7 +15,7 @@
 
 | Kiosk Home | Item Details & Extras | Cart Overlay | Admin Orders Page |
 |------------|----------------------|--------------|-------------------|
-| ![Home](./assets/screenshots/kiosk-home.png) | ![Details](./assets/screenshots/item-details.png) | ![Cart](./assets/screenshots/cart.png) | ![Orders](./assets/screenshots/admin-orders.png) |
+| ![Home](./assets/screenshots/kiosk-home.png) | ![Menu](./assets/SliceLine_MenuPage.png) | ![Cart](./assets/screenshots/cart.png) | ![Orders](./assets/screenshots/admin-orders.png) |
 
 More screenshots & a short demo GIF live in [`docs/demo`](docs/demo).
 
