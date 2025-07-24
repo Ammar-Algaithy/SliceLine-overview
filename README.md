@@ -13,11 +13,9 @@
 
 ## 📸 Preview
 
-| Kiosk Home | Item Details & Extras | Cart Overlay | Admin Orders Page |
+| Kiosk Home | Menu | Menu Item | Cart Overlay | Admin Orders Page |
 |------------|----------------------|--------------|-------------------|
-| ![Home](./assets/screenshots/kiosk-home.png) | ![Menu](./assets/SliceLine_MenuPage.png) | ![Cart](./assets/screenshots/cart.png) | ![Orders](./assets/screenshots/admin-orders.png) |
-
-More screenshots & a short demo GIF live in [`docs/demo`](docs/demo).
+| ![Home](./assets/SliceLine_HomePage.png) | ![Menu](./assets/SliceLine_MenuPage.png) | ![Menu Item](./assets/MenuItem_Details.png) | ![Cart](./assets/SliceLine_Cartpage.png) | ![Orders](./assets/SliceLine_Pending.png) |
 
 ---
 
@@ -59,7 +57,7 @@ More screenshots & a short demo GIF live in [`docs/demo`](docs/demo).
 ## 🚀 Getting Started
 
 This repository is an **overview only**.  
-The full source code lives in a private repo. To request access, email **ammar@neowasl.com**.
+The full source code lives in a private repo. To request access, email **algaithyammar@gmail.com**.
 
 ---
 
@@ -80,7 +78,7 @@ The full source code lives in a private repo. To request access, email **ammar@n
 Have design feedback or feature ideas? Open an issue here or reach out:
 
 - **Email:** ammar@neowasl.com  
-- **LinkedIn:** [Ammar Algaithy](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [Ammar Algaithy](https://linkedin.com/in/ammar-algaithy)
 
 Code contributions occur in the private SliceLine repo via pull requests.
 
@@ -89,4 +87,4 @@ Code contributions occur in the private SliceLine repo via pull requests.
 ## 📜 License
 
 The content of this overview repository is released under the **MIT License**.  
-Source code in the private SliceLine repository is proprietary to NeoWasl LLC.
+Source code in the private SliceLine repository is proprietary to Ammar Algaithy.
