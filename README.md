@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo-sliceline.svg" alt="SliceLine Logo" width="180">
+  <img src="./assets/SliceLineLogo.JPG" alt="SliceLine Logo" width="180">
 </p>
 
 <h1 align="center">SliceLine 🍕 — Self‑Service Deli & Kiosk Ordering Platform</h1>
