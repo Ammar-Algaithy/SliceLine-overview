@@ -2,7 +2,17 @@
   <img src="./assets/logo-sliceline.svg" alt="SliceLine Logo" width="180">
 </p>
 
-<h1 align="center">SliceLine 🍕 — Self‑Service Deli & Kiosk Ordering Platform</h1> <p align="center"><em> This repo is <strong>screenshots only</strong>. The full source code lives in a private repository <a href="mailto:algaithyammar@gmail.com">algaithyammar@gmail.com</a> to request access. </em></p>
+<h1 align="center">SliceLine 🍕 — Self‑Service Deli & Kiosk Ordering Platform</h1>
+
+<p align="center">
+  <em>
+    This repository contains <strong>screenshots and documentation only</strong>.<br/>
+    The production source code is hosted in a private repo.<br/>
+    To request access, please email&nbsp;
+    <a href="mailto:algaithyammar@gmail.com">algaithyammar@gmail.com</a>.
+  </em>
+</p>
+
 
 <p align="center">
   Touch‑first ordering · Real‑time kitchen display · Cash & card checkout · Admin dashboard
