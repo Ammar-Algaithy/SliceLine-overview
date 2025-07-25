@@ -45,7 +45,7 @@
 
 ## 🗺 Architecture
 
-![Architecture diagram](./assets/diagrams/architecture.svg)
+![Architecture diagram](./assets/SliceLine_diagram%20_%20Mermaid_Chart.png)
 
 1. **Kiosk & mobile clients** call the ASP.NET Core API.  
 2. **TempCashOrder** flow intercepts cash checkouts before conversion to permanent orders.  
