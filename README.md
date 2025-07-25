@@ -65,9 +65,7 @@ The full source code lives in a private repo. To request access, email **algaith
 
 - [x] Kiosk ordering MVP  
 - [x] Cash‑order cashier workflow  
-- [x] Admin panels (products, clients, orders, notifications)  
-- [ ] Real‑time WebSocket updates for kitchen displays  
-- [ ] Multi‑tenant SaaS (per‑deli branding & isolation)  
+- [x] Admin panels (products, clients, orders, notifications) 
 - [ ] Reporting & analytics (sales heatmaps, ingredient usage)  
 - [ ] Internationalization (Arabic & Spanish)
 
