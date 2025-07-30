@@ -85,7 +85,7 @@ The full source code lives in a private repo. To request access, email **algaith
 
 Have design feedback or feature ideas? Open an issue here or reach out:
 
-- **Email:** ammar@neowasl.com  
+- **Email:** algaithyammar@gmail.com  
 - **LinkedIn:** [Ammar Algaithy](https://linkedin.com/in/ammar-algaithy)
 
 Code contributions occur in the private SliceLine repo via pull requests.
